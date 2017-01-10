@@ -9,3 +9,5 @@
 [Google](http://www.google.com)
 
 ![screengrab](./GPS_pairing.JPG)
+
+added a line - as a small change.
